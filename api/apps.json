@@ -22,9 +22,9 @@
         "rootRequired": true,
         "ipkUrl": "https://fingers986.github.io/webos-downgr8/com.downgr8_1.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "62ee1c03ca990b27c9150e6b288f23dcd8797914a1bf6f919c7a6fb31c9bc230"
+          "sha256": "9fb6f3e22dfc58aaf93e8f181df4bfa08e3d792f4ff2d4e2dca2879d7966cb36"
         },
-        "ipkSize": 1530
+        "ipkSize": 1678
       },
       "pool": "main",
       "shortDescription": "Enable expert mode and firmware downgrade",
