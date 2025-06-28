@@ -1,27 +1,34 @@
 {
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
   "packages": [
     {
       "id": "lol.downgr8",
       "title": "Downgr8",
-      "iconUri": "https://raw.githubusercontent.com/throwaway96/downgr8/refs/heads/main/icon_80x80.png",
+      "iconUri": "https://fingers986.github.io/webos-downgr8/icon_80x80.png",
       "manifestUrl": "https://fingers986.github.io/webos-downgr8/lol.downgr8.manifest.json",
       "manifest": {
         "id": "lol.downgr8",
         "version": "1.0.0",
         "type": "native",
         "title": "Downgr8",
-        "appDescription": "Enable WebOS expert mode & downgrade firmware.",
-        "iconUri": "https://raw.githubusercontent.com/throwaway96/downgr8/refs/heads/main/icon_80x80.png",
+        "appDescription": "Downgrade tool for webOS",
+        "iconUri": "https://fingers986.github.io/webos-downgr8/icon_80x80.png",
         "sourceUrl": "https://github.com/throwaway96/downgr8",
         "rootRequired": true,
         "ipkUrl": "https://fingers986.github.io/webos-downgr8/lol.downgr8_1.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "e9071583578319bc70aad056ec4270061071f1a48fffc15404b1a38bbca35f00"
+          "sha256": "e08abfba5f2e692016fd9f7c7398b514ca495db1afd034d707aa8c867757088f"
         },
-        "ipkSize": 2713
+        "ipkSize": 1272
       },
       "pool": "main",
-      "shortDescription": "Enable WebOS downgrade mode"
+      "shortDescription": "Downgrade tool for webOS",
+      "fullDescriptionUrl": "apps/lol.downgr8/full_description.html"
     }
   ]
 }
