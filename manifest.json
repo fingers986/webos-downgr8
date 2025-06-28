@@ -1,0 +1,15 @@
+{
+  "id": "com.downgr8",
+  "version": "1.0.0",
+  "type": "native",
+  "title": "Downgr8",
+  "appDescription": "Enable WebOS expert mode & downgrade firmware.",
+  "iconUri": "https://raw.githubusercontent.com/throwaway96/downgr8/main/icon_80x80.png",
+  "sourceUrl": "https://github.com/throwaway96/downgr8",
+  "rootRequired": true,
+  "ipkUrl": "https://fingers986.github.io/webos-downgr8/com.downgr8_1.0.0_all.ipk",
+  "ipkHash": {
+    "sha256": "b683063a422fb49e7578f69a9e9b61ae8a7c504b6654312e0b8164d87b3aee59"
+  },
+  "ipkSize": 3632
+}
