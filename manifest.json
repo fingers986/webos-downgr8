@@ -9,7 +9,7 @@
   "rootRequired": true,
   "ipkUrl": "https://fingers986.github.io/webos-downgr8/com.downgr8_1.0.0_all.ipk",
   "ipkHash": {
-    "sha256": "b683063a422fb49e7578f69a9e9b61ae8a7c504b6654312e0b8164d87b3aee59"
+    "sha256": "4eeb5350d62f6b998b6ef9189c5cbfa8df3b57bbacc98bace2283856ac63d2ae"
   },
-  "ipkSize": 3632
+  "ipkSize": 40960
 }
